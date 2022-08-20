@@ -16,5 +16,6 @@ Keeps you on track like a drum working overtime. The drums are just getting star
 </p>
 
 ## 🏁 Getting Started
-![](images\readme.png)
+
+![](images\redme.png)
 
