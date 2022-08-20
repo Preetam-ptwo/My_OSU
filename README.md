@@ -17,5 +17,5 @@ Keeps you on track like a drum working overtime. The drums are just getting star
 
 ## 🏁 Getting Started
 
-![](images\redme.png)
+!![](https://github.com/Preetam-ptwo/My_OSU/blob/master/images/redme.png)
 
